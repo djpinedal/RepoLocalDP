@@ -1,2 +1,4 @@
 select sysdate,osuser,session
 from dual;
+select sysdate+30
+from dual;
