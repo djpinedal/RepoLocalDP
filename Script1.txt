@@ -1,2 +1,2 @@
-select sysdate,osuser
+select sysdate,osuser,session
 from dual;
