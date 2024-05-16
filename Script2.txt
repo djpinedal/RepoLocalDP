@@ -1,2 +1,2 @@
-select count(1)
+select count(1),sysdate
 from employes;

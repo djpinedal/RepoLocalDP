@@ -1,2 +1,3 @@
-select sysdate,osuser,session
+select sysdate,osuser 
 from dual;
+//cambio prueba rebase
