@@ -1,3 +1,7 @@
 select sysdate,osuser 
 from dual;
 //cambio prueba rebase
+select sysdate,osuser
+from dual;
+select sysdate+30
+from dual;
